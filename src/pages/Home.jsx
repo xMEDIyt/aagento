@@ -1,12 +1,11 @@
 import React, {lazy} from "react";
 import { useAOS } from "../hooks/useAOS";
-import "aos/dist/aos.css";
 import Container from "../components/Container";
 import GetStarted from "../components/Buttons/GetStarted";
 import SectionHeader from "../components/SectionHeader";
 
 const Features = lazy(() => import("../components/Features"));
-const ChooseUs = lazy(() => import("../components/ChooseUS"));
+const ChooseUs = lazy(() => import("../components/ChooseUs"));
 const Integration = lazy(() => import("../components/Integration"));
 const PricingContent = lazy(() => import("../components/PricingContent"));
 const Testimonials = lazy(() => import("../components/Testimonials"));
@@ -16,7 +15,6 @@ const Cta = lazy(() => import("../components/Cta"));
 const Footer = lazy(() => import("../components/Footer"));
 
 const Home = () => {
-
   useAOS();
   return (
     <div className="home w-full h-screen bg-cover bg-center">
