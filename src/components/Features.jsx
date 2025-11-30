@@ -23,7 +23,7 @@ const Features = () => {
             {content?.features.map((card) => (
                 <FeatureCard 
                     key={card.id}
-                    Img={`/src/assets/features/${card.img}`} 
+                    Img={`/assets/features/${card.img}`} 
                     title={card.title} 
                     description={card.description}
                     animation="fade-up"
