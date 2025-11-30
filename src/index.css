@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 .home {
-    background-image: url("./assets/home/background-img.webp");
+    background-image: url("/assets/home/background-img.webp");
     background-size: cover;
     background-position: center; 
     background-repeat: no-repeat; 
