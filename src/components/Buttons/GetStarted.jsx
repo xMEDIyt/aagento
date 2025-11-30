@@ -14,7 +14,7 @@ const ArrowIcon = () => (
 
 const GetStarted = ({ title, path }) => {
   return (
-    <Link to={`/${path}`} aria-label={`go to ${path}`}>
+    <Link to={`/${path}`} aria-label={`go to ${path === "" ? "home" : path}`}>
       <div className="
           group flex items-center gap-2 
           p-2 rounded-lg w-fit shadow 

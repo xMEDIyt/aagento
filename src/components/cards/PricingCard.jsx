@@ -45,8 +45,8 @@ const PricingCard = ({ plan, price, animation }) => {
           ))}
         </div>
 
-        <GetStarted title="Buy Now" path="/" />
-      </div>
+        <GetStarted title="Buy Now" path="" />
+      </div> 
     </div>
   );
 };
