@@ -1,5 +1,5 @@
 import React from "react";
-import BackgroundImg from "../../assets/home/background-img.webp";
+import BackgroundImg from "/assets/home/background-img.webp";
 import { useAOS } from "../../hooks/useAOS";
 
 const TestimonialsCard = ({ content, name, jobTitle, profileImg, animation }) => {

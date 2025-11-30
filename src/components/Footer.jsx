@@ -1,6 +1,6 @@
 import React, { memo, useMemo } from "react";
 import { useData } from "../hooks/useData";
-import Logo from "../assets/home/logo.avif";
+import Logo from "/assets/home/logo.avif";
 import { NavLink, Link } from "react-router-dom";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faFacebook, faGithub, faYoutube, faLinkedin } from "@fortawesome/free-brands-svg-icons";

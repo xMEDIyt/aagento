@@ -1,7 +1,7 @@
 import React from "react";
 import SectionHeader from "./SectionHeader";
 import GetStarted from "./Buttons/GetStarted";
-import BackgroundCover from "../assets/home/background-img.webp";
+import BackgroundCover from "/assets/home/background-img.webp";
 
 const Cta = () => {
   return (

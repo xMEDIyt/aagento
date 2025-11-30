@@ -1,7 +1,7 @@
 import React, {lazy} from "react";
 import Container from "../components/Container";
 import GetStarted from "../components/Buttons/GetStarted";
-import Error404 from "../assets/not-found.avif";
+import Error404 from "/assets/not-found.avif";
 const Footer = lazy(() => import("../components/Footer"));
 import { useAOS } from "../hooks/useAOS";
 

@@ -21,7 +21,7 @@ const Integration = () => {
                     {
                         content?.integrations.map((card) => (
                             <div key={card.id}>
-                                <IntegrationCard cardImg={`/src/assets/integration/${card.cardImg}`} title={card.title} description={card.description}/>
+                                <IntegrationCard cardImg={`/assets/integration/${card.cardImg}`} title={card.title} description={card.description}/>
                             </div>
                         ))
                     }

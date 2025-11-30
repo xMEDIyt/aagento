@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import LogoImg from "../../assets/home/logo.avif";
+import LogoImg from "/assets/home/logo.avif";
 import Navlinks from "./Navlinks";
 import GetStarted from "../Buttons/GetStarted";
 import { faBars, faTimes } from "@fortawesome/free-solid-svg-icons";

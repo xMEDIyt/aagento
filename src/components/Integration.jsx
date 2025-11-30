@@ -1,5 +1,5 @@
 import React from "react";
-import Integrate from "../assets/integration/Integrate.avif";
+import Integrate from "/assets/integration/Integrate.avif";
 
 const Integration = () => {
     return(

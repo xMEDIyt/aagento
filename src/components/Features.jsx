@@ -1,15 +1,15 @@
 import React from "react";
 import { useData } from "../hooks/useData";
-import featureImg4 from "../assets/features/features-4.avif";
-import Github from "../assets/integration/github.avif";
-import Chatgpt from "../assets/integration/chatgpt.webp";
-import Aiagento from "../assets/integration/aiagento.png";
-import Dropbox from "../assets/integration/dropbox.webp";
-import Hangouts from "../assets/integration/hangouts.webp"
-import Zendesk from  "../assets/integration/zendesk.avif";
-import Discord from "../assets/integration/discord.png";
-import Zapier from "../assets/integration/zapier.svg";
-import Slack from "../assets/integration/slack.avif";
+import featureImg4 from "/assets/features/features-4.avif";
+import Github from "/assets/integration/github.avif";
+import Chatgpt from "/assets/integration/chatgpt.webp";
+import Aiagento from "/assets/integration/aiagento.png";
+import Dropbox from "/assets/integration/dropbox.webp";
+import Hangouts from "/assets/integration/hangouts.webp"
+import Zendesk from  "/assets/integration/zendesk.avif";
+import Discord from "/assets/integration/discord.png";
+import Zapier from "/assets/integration/zapier.svg";
+import Slack from "/assets/integration/slack.avif";
 import FeatureCard from "./cards/FeatureCard";
 import { useAOS } from "../hooks/useAOS";
 

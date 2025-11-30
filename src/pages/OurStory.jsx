@@ -2,8 +2,8 @@ import React, {lazy} from "react";
 import { useAOS } from "../hooks/useAOS";
 import { faCheck, faGear, faShield, faChartPie} from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import Story_1 from "../assets/our-story/story-1.jpg";
-import Story_2 from "../assets/our-story/story-2.jpg";
+import Story_1 from "/assets/our-story/story-1.jpg";
+import Story_2 from "/assets/our-story/story-2.jpg";
 import { useData } from "../hooks/useData";
 import Container from "../components/Container";
 import SectionHeader from "../components/SectionHeader";
@@ -97,7 +97,7 @@ const OurStory = () => {
                         {
                             content?.teams.map((card) => (
                                 <div key={card.id}>
-                                    <TeamsCard personImg={`/src/assets/teams/${card.personImg}`} name={card.name} jobTitle={card.jobTitle}/>
+                                    <TeamsCard personImg={`/assets/teams/${card.personImg}`} name={card.name} jobTitle={card.jobTitle}/>
                                 </div>
                             ))
                         }

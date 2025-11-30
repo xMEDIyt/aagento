@@ -1,6 +1,6 @@
 import React, { lazy, Suspense } from "react";
-import Protection_1 from "../assets/protection/protection-1.avif";
-import Protection_2 from "../assets/protection/protection-2.avif";
+import Protection_1 from "/assets/protection/protection-1.avif";
+import Protection_2 from "/assets/protection/protection-2.avif";
 import { useData } from "../hooks/useData";
 import { faCheck, faGear, faShield, faChartPie, faLink, faHeadset } from "@fortawesome/free-solid-svg-icons";
 

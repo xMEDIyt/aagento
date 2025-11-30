@@ -9,7 +9,7 @@ const Testimonials = () => {
             {
                 content?.testimonials.map((card) => (
                     <div key={card.id}>
-                        <TestimonialsCard content={card.content} name={card.name} jobTitle={card.jobTitle} profileImg={`/src/assets/teams/${card.profileImg}`} animation="fade-up"/>
+                        <TestimonialsCard content={card.content} name={card.name} jobTitle={card.jobTitle} profileImg={`/assets/teams/${card.profileImg}`} animation="fade-up"/>
                     </div>
                 ))
             }

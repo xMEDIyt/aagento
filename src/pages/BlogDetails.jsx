@@ -19,13 +19,13 @@ const BlogDetails = ({blogs}) => {
                         <h1 className="text-3xl lg:text-4xl font-bold pb-4">{blog.blogTitle}</h1>
                         <p className="opacity-70 pb-6">{blog.blogDescription}</p>
                         <div className="flex items-center gap-4 font-bold text-lg">
-                            <img src={`/src/assets/teams/${blog.profileImg}`} alt={blog.name} className="w-12 h-12 rounded-full"/>
+                            <img src={`/assets/teams/${blog.profileImg}`} alt={blog.name} className="w-12 h-12 rounded-full"/>
                             <h1>{blog.name}</h1>
                             <span>|</span>
                             <p>{blog.date}</p>
                         </div>
                         <div className="py-10">
-                            <img src={`/src/assets/blogs/${blog.blogImg}`} alt={blog.blogTitle} className="h-[350px] w-[1200px]"/>
+                            <img src={`/assets/blogs/${blog.blogImg}`} alt={blog.blogTitle} className="h-[350px] w-[1200px]"/>
                         </div>
                         <div className="text-lg">
                             <div>
